@@ -3,7 +3,7 @@ import React from "react";
 export default function Hero() {
   return (
     <section className="flex flex-col justify-center md:-ml-[30rem] mt-60 px-4 md:px-10">
-      <h1 className="text-left text-4xl md:text-6xl font-bold text-pink-900 mb-3">
+      <h1 className="text-left text-4xl md:text-6xl font-bold text-blue-950 mb-3">
         @support
       </h1>
 
