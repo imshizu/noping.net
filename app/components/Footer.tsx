@@ -12,7 +12,7 @@ export default function Footer() {
                 That said, if you see this site's URL as someone's status/bio, be prepared for no response if you just ping them!
             </p>
             <p className="mb-2">
-                Inspiration is taken from the wonderful{" "}
+                Site design is taken from {" "}
                 <Link href="https://nohello.net/en/">nohello.com</Link>.
                 {" "} Open-source on{" "}
                 <Link href="https://github.com/altshizu/">Github</Link>.
