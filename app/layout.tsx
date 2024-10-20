@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "No Pings",
-  description: "Stop unneseccary pings when receiving support",
+  title: "no pings",
+  description: "stop unneseccary pings when receiving support",
 };
 
 export default function RootLayout({

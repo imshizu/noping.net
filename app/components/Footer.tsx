@@ -14,7 +14,10 @@ export default function Footer() {
             <p className="mb-2">
                 Site design is taken from {" "}
                 <Link href="https://nohello.net/en/">nohello.com</Link>.
-                {" "} Open-source on{" "}
+                {" "} Avatars taken from{" "}
+                <Link href="https://en.wikipedia.org/wiki/The_Office_(British_TV_series)">The Office</Link>.
+                {" "}
+                 Open-source on{" "}
                 <Link href="https://github.com/altshizu/">Github</Link>.
             </p>
         </footer>
